@@ -1,11 +1,12 @@
 # **My_Favorite_Chatbot**
+
+# **Breve Apresentação do Projeto**
  **MyFavorite: Um chatbot integrado com a tecnologia surpreendente do Gemini 1.5 PRO, capaz de responder às suas dúvidas como se fosse seu personagem fictício preferido! Conversar com seu personagem favorito nunca foi tão possível como pode ser agora.**
 
- # **Breve Apresentação do Projeto**
+ # **A Ideia**
  Em um de seus livros publicado postumamente (2005), o filósofo brasileiro Álvaro Vieira Pinto afirma que uma das maneiras sobre a qual pode ser encarada a relação do homem com a Tecnologia, "*refere-se ao uso consciente e dominado, que caracteriza o homem que utiliza da sua criação sem ser controlado por ela, sabendo extrair os benefícios da praticidade tecnológica.*"
 O modelo **Gemini 1.5 PRO do Google** é um perfeito exemplo do quanto é possível se beneficiar de modelos tecnológicos avançados. Principalmente quando se fala em capacidade de "pensamento" e de contextualização.
 
-# **A Ideia**
 Sabemos que no processo de busca por conhecimento, muitas pessoas trilham um caminho solitário. 
 É comum que estudantes de famílias de baixa renda, por exemplo, enfrentem maiores dificuldades para frequentar instituições de ensino superior e também não tenham acesso a outros tipos de cursos pagos. Então, como tornar o processo de aprendizado mais dinâmico e um pouco menos solitário?
 
